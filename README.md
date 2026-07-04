@@ -1,0 +1,2 @@
+# Tree-Species-Classification-with-a-Drone-Image-Point-Cloud
+This project used a drone-derived photogrammetric point cloud from the Jyrinvaara area to classify tree species. The workflow included WebODM point-cloud generation, empirical height correction using an ALS-based DTM, crown segmentation from a CHM, extraction of structural and RGB-based crown metrics, and LDA-based tree species classification.
